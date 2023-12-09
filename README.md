@@ -10,9 +10,8 @@
 - 💡 Excited about building scalable web applications and open to connecting with developers, mentors, and MERN enthusiasts.
 - 🤝 Open for advice, collaboration on projects, or friendly chats about MERN stack development.
 - 💻 Eager to engage and contribute to the vibrant MERN community.
-- 📧 Connect me: `baishnabmonishat@gmail.com` / <a href='https://www.linkedin.com/in/monishat-baishnab666/'>`www.linkedin.com`</a>
-
-[Contact Me](mailto:baishnabmonishat%40gmail.com)
+- 📧 Connect me: <a href='https://www.linkedin.com/in/monishat-baishnab666/'>`www.linkedin.com`</a>
+[`Email`](mailto:baishnabmonishat@gmail.com)
 
 - 📝 Please have a look at my <a href='https://drive.google.com/file/d/1fFCoha7beyLtg-OSpw9ZYAbnZfz3U-or/view?usp=sharing'>Resume</a> for more details about me. I'm open to feedback and suggestions!
   
