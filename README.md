@@ -47,8 +47,7 @@ Fluxify is an online forum system with a clean interface and robust features for
 **Frontend:** React, Axios, Stripe, React Query, React Router  
 **Backend:** Express, MongoDB, JWT, Stripe, Cors
 
-### Project Links
-- [Live Project](https://fluxify-72def.firebaseapp.com/)
+[Live Project](https://fluxify-72def.firebaseapp.com/)
 
 ## EduSync (Assignment Manager)
 
@@ -64,8 +63,7 @@ EduSync streamlines assignment management, offering efficient browsing and colla
 **Frontend:** React, Firebase, Axios, React Query, React Router  
 **Backend:** Express, MongoDB, JWT, Cors, Cookie Parser, dotenv
 
-### Project Link
-[**Live Project**](https://edusync-7a3f5.web.app/)
+[Live Project](https://edusync-7a3f5.web.app/)
 
 ## TechStore (E-Commerce)
 
@@ -81,6 +79,5 @@ TechStore provides effortless access to the latest tech offerings with a swift r
 **Frontend:** React, Firebase, React Router  
 **Backend:** Express, MongoDB, dotenv
 
-### Project Links
 - [Live Project](https://techstore-aac9a.web.app/)
 
