@@ -11,6 +11,9 @@
 - 🤝 Open for advice, collaboration on projects, or friendly chats about MERN stack development.
 - 💻 Eager to engage and contribute to the vibrant MERN community.
 - 📧 Connect me: `baishnabmonishat@gmail.com` / <a href='https://www.linkedin.com/in/monishat-baishnab666/'>`www.linkedin.com`</a>
+
+[Contact Me](mailto:baishnabmonishat%40gmail.com)
+
 - 📝 Please have a look at my <a href='https://drive.google.com/file/d/1fFCoha7beyLtg-OSpw9ZYAbnZfz3U-or/view?usp=sharing'>Resume</a> for more details about me. I'm open to feedback and suggestions!
   
 ## 👨‍💻 Expertise
@@ -29,5 +32,56 @@
 
 </div>
 
+# My recent Projects
 
+## Fluxify (Online Forum)
+
+### Overview
+Fluxify is an online forum system with a clean interface and robust features for community interaction. It prioritizes user experience and security.
+
+### Features
+- **User Interface:** Sleek post display, efficient search, and intuitive tag organization.
+- **Community Engagement:** Likes, dislikes, and comments for vibrant interaction.
+- **Security:** JWT authentication and a trusted payment gateway for data protection.
+
+### Tech Stack
+**Frontend:** React, Axios, Stripe, React Query, React Router  
+**Backend:** Express, MongoDB, JWT, Stripe, Cors
+
+### Project Links
+- [Live Project](https://fluxify-72def.firebaseapp.com/)
+
+## EduSync (Assignment Manager)
+
+### Overview
+EduSync streamlines assignment management, offering efficient browsing and collaboration features.
+
+### Features
+- **Efficient Management:** Seamless filtering, sorting, and pagination.
+- **Collaboration:** Users can create, answer, and collaborate on assignments.
+- **Security:** Loading skeleton, robust login, and secure interactions.
+
+### Tech Stack
+**Frontend:** React, Firebase, Axios, React Query, React Router  
+**Backend:** Express, MongoDB, JWT, Cors, Cookie Parser, dotenv
+
+### Project Link
+[**Live Project**](https://edusync-7a3f5.web.app/)
+
+## TechStore (E-Commerce)
+
+### Overview
+TechStore provides effortless access to the latest tech offerings with a swift registration process for users. It ensures hassle-free and secure entry into tech shopping with seamless Google account integration.
+
+### Features
+- **Effortless Access:** Swift registration process for newcomers.
+- **Secure Tech Shopping:** Seamless Google account integration.
+- **Exclusive Content:** Accessible to registered users for a personalized browsing experience.
+
+### Tech Stack
+**Frontend:** React, Firebase, React Router  
+**Backend:** Express, MongoDB, dotenv
+
+### Project Links
+- [Live Project](https://techstore-aac9a.web.app/)
 
