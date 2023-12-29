@@ -1,83 +1,59 @@
-<div>
-  <img src="https://raw.githubusercontent.com/monishatBaishnab/monishatBaishnab/main/github.jpg" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=monishatBaishnab.monishatBaishnab&&left_color=red&right_color=green" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=22C55E&duration=4000&lines=Hi+There!+👋;+I'm+Monishat+Baishnab!;" />
+</h1>
+
+<p align="center">👋 I'm an energetic front-end developer from Bangladesh on a mission to create captivating web experiences. Passionate about the MERN stack, I specialize in crafting dynamic user interfaces with React and exploring server-side scripting using Node.js/Express.js. With hands-on experience and a commitment to continuous growth, I'm ready for real-world challenges and keen on collaborative projects that push boundaries. Let's connect and bring innovative ideas to life! 🚀</p>
+
+<br/>
+
+<div align="center">
+ 
+ 🌱 I’m currently learning **React Query and Next.js**
+ 
+ 💡 I’m Passionate About Building   **Scalable Web Applications**
+
+🤝 Open for **Professional Collaboration and Discussion**
+
+💬 Ask me about **Tailwindcss, Bootstrap, Javascript, React... or anything [here](https://github.com/monishatBaishnab/monishatBaishnab/issues)**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:baishnabmonishat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/monishat-baishnab666" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://monishat-portfolio.web.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
 </div>
-<h1>Hello 👋, I'm Monishat Baishnab</h1>
 
-👋 I'm an energetic front-end developer from Bangladesh on a mission to create captivating web experiences. Passionate about the MERN stack, I specialize in crafting dynamic user interfaces with React and exploring server-side scripting using Node.js/Express.js. With hands-on experience and a commitment to continuous growth, I'm ready for real-world challenges and keen on collaborative projects that push boundaries. Let's connect and bring innovative ideas to life! 🚀
-- 🌱 Currently expanding knowledge in React Query, Next js.
-- 🚀 Focused on enhancing progressive web application performance for a better user experience.
-- 🔍 Actively seeking opportunities to apply skills in a collaborative and fast-paced environment.
-- 💡 Excited about building scalable web applications and open to connecting with developers, mentors, and MERN enthusiasts.
-- 🤝 Open for advice, collaboration on projects, or friendly chats about MERN stack development.
-- 💻 Eager to engage and contribute to the vibrant MERN community.
-- 📧 Connect me: <a href='https://www.linkedin.com/in/monishat-baishnab666/'>`www.linkedin.com`</a>
-[`baishnabmonishat@gmail.com`](mailto:baishnabmonishat@gmail.com)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,express,firebase,mongodb,mysql" /><br>
+</div>
 
-- 📝 Please have a look at my <a href='https://drive.google.com/file/d/1fFCoha7beyLtg-OSpw9ZYAbnZfz3U-or/view?usp=sharing'>Resume</a> for more details about me. I'm open to feedback and suggestions!
-  
-## 👨‍💻 Expertise
-<p>
-  <div>
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,html,css,tailwindcss,bootstrap,sass,materialui" />
-  </div>
-</p>
+<br/>
 
-<br />
+<hr/>
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=350 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=monishatBaishnab&count_private=true&theme=react&border_radius=5" alt="streak stats"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=monishatBaishnab&card_width=500&type=png)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=monishatbaishnab&show_icons=true&locale=en&layout=compact)
+  <img width=350 src="https://github-readme-stats-salesp07.vercel.app/api?username=monishatBaishnab&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" />
+  <br/>
+  <img width=352 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=monishatBaishnab&hide=HTML,Hack&langs_count=8&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 
-# My recent Projects
-
-## Fluxify (Online Forum)
-
-### Overview
-Fluxify is an online forum system with a clean interface and robust features for community interaction. It prioritizes user experience and security.
-
-### Features
-- **User Interface:** Sleek post display, efficient search, and intuitive tag organization.
-- **Community Engagement:** Likes, dislikes, and comments for vibrant interaction.
-- **Security:** JWT authentication and a trusted payment gateway for data protection.
-
-### Tech Stack
-**Frontend:** React, Axios, Stripe, React Query, React Router  
-**Backend:** Express, MongoDB, JWT, Stripe, Cors
-
-[Live Project](https://fluxify-72def.firebaseapp.com/)
-
-## EduSync (Assignment Manager)
-
-### Overview
-EduSync streamlines assignment management, offering efficient browsing and collaboration features.
-
-### Features
-- **Efficient Management:** Seamless filtering, sorting, and pagination.
-- **Collaboration:** Users can create, answer, and collaborate on assignments.
-- **Security:** Loading skeleton, robust login, and secure interactions.
-
-### Tech Stack
-**Frontend:** React, Firebase, Axios, React Query, React Router  
-**Backend:** Express, MongoDB, JWT, Cors, Cookie Parser, dotenv
-
-[Live Project](https://edusync-7a3f5.web.app/)
-
-## TechStore (E-Commerce)
-
-### Overview
-TechStore provides effortless access to the latest tech offerings with a swift registration process for users. It ensures hassle-free and secure entry into tech shopping with seamless Google account integration.
-
-### Features
-- **Effortless Access:** Swift registration process for newcomers.
-- **Secure Tech Shopping:** Seamless Google account integration.
-- **Exclusive Content:** Accessible to registered users for a personalized browsing experience.
-
-### Tech Stack
-**Frontend:** React, Firebase, React Router  
-**Backend:** Express, MongoDB, dotenv
-
-- [Live Project](https://techstore-aac9a.web.app/)
-
+<br/>
