@@ -48,12 +48,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  
-  <img width=352 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=monishatBaishnab&hide=HTML,Hack&langs_count=8&layout=compact&theme=light&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <br /> 
-  <img width=350 src="https://github-readme-stats-salesp07.vercel.app/api?username=monishatBaishnab&count_private=true&show_icons=true&theme=light&rank_icon=github&border_radius=5" alt="readme stats" />
-  <br/>
-  <img width=350 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=monishatBaishnab&count_private=true&theme=light&border_radius=5" alt="streak stats"/>
+  <img height=150 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=monishatBaishnab&hide=HTML,Hack&langs_count=8&layout=compact&theme=light&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height=150 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=monishatBaishnab&count_private=true&theme=light&border_radius=5" alt="streak stats"/>
 </div>
 
 <br/>
