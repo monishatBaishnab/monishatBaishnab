@@ -27,8 +27,11 @@
   <a href="https://www.linkedin.com/in/monishat-baishnab666" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.facebook.com/Monishat001/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
   <a href="https://monishat-portfolio.web.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -38,7 +41,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,express,firebase,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,express,firebase,mongodb,MySQL" /><br>
 </div>
 
 <br/>
