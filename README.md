@@ -4,22 +4,56 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=22C55E&duration=4000&lines=Hi+There!+👋;+I'm+Monishat+Baishnab!;" />
 </h1>
 
-<p align="center">👋 I'm an energetic front-end developer from Bangladesh on a mission to create captivating web experiences. Passionate about the MERN stack, I specialize in crafting dynamic user interfaces with React and exploring server-side scripting using Node.js/Express.js. With hands-on experience and a commitment to continuous growth, I'm ready for real-world challenges and keen on collaborative projects that push boundaries. Let's connect and bring innovative ideas to life! 🚀</p>
+I'm an energetic Frontend Developer from Bangladesh with over 8 months of experience creating intuitive and dynamic web applications. My expertise lies in the MERN stack, and I'm particularly skilled in Next.js, React, TypeScript, and Redux. I thrive on challenges that push the boundaries of web development and am always eager to learn new technologies.
 
-<br/>
+---
 
-<div align="center">
- 
- 🌱 I’m currently learning **React Query and Next.js**
- 
- 💡 I’m Passionate About Building   **Scalable Web Applications**
+### 🚀 What I Do
 
-🤝 Open for **Professional Collaboration and Discussion**
+**Crafting Engaging User Interfaces**  
+I design and develop responsive, user-friendly interfaces that deliver seamless experiences across devices. My work includes:
 
-💬 Ask me about **Tailwindcss, Bootstrap, Javascript, React... or anything [here](https://github.com/monishatBaishnab/monishatBaishnab/issues)**
+- **Dynamic UIs**: Using React and Next.js for scalable applications.
+- **State Management**: Proficient with Redux and Context API.
+- **Styling**: Expertise in Tailwind CSS, Bootstrap and SCSS.
 
- </div>
- 
+**Backend Integration**  
+I ensure smooth data flow and integration with backend systems using:
+
+- Node.js & Express.js
+- RESTful APIs
+- MongoDB, Mongoose, PostgreSql
+
+---
+
+### 🌱 Currently Learning
+
+- **Prisma & PostgreSQL:** Developing expertise in database management and ORM for more robust data handling.
+
+---
+
+### 💡 Passion Projects
+
+**TrekTales**: Travel Tips & Destination Guides  
+- **Secure Login**: User authentication with JWT.
+- **Rich Content**: Integrated a rich text editor and Cloudinary for media uploads.
+- **Payments**: Implemented Aamarpay for secure transactions.
+
+**Wash Suite**: Car Wash Booking System  
+- **Reviews & Management**: User reviews and slot management with Redux and RTK Query.
+- **Advanced UI**: Developed a seamless booking system with efficient search and filtering.
+
+---
+
+### 💼 Professional Experience
+
+**Frontend Developer at Learner LMS** (March 2024 - Present)  
+- Designed and developed responsive LMS interfaces.
+- Managed complex forms and API integrations.
+- Collaborated with UI/UX designers to implement admin dashboards.
+
+---
+
 <div align="center"> 
   <a href="mailto:baishnabmonishat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -37,11 +71,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,express,firebase,mongodb,MySQL" /><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,next,nodejs,express,mongodb,postgresql,prisma" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,html,css,mui,figma" /><br>
 </div>
 
 <br/>
