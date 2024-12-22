@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=22C55E&duration=4000&lines=Hi+There!+👋;+I'm+Monishat+Baishnab!;" />
 </h1>
 
-I'm an energetic Frontend Developer from Bangladesh with over 8 months of experience creating intuitive and dynamic web applications. My expertise lies in the MERN stack, and I'm particularly skilled in Next.js, React, TypeScript, and Redux. I thrive on challenges that push the boundaries of web development and am always eager to learn new technologies.
+I'm a Frontend Developer from Bangladesh with work experience creating intuitive and dynamic web applications. My expertise lies in the MERN stack, and I'm particularly skilled in Next.js, React, TypeScript, and Redux. I thrive on challenges that push the boundaries of web development and am always eager to learn new technologies.
 
 ---
 
@@ -29,21 +29,6 @@ I ensure smooth data flow and integration with backend systems using:
 ### 🌱 Currently Learning
 
 - **Prisma & PostgreSQL:** Developing expertise in database management and ORM for more robust data handling.
-
----
-
-### 💡 Passion Projects
-
-**TrekTales**: Travel Tips & Destination Guides  
-- **Secure Login**: User authentication with JWT.
-- **Rich Content**: Integrated a rich text editor and Cloudinary for media uploads.
-- **Payments**: Implemented Aamarpay for secure transactions.
-
-**Wash Suite**: Car Wash Booking System  
-- **Reviews & Management**: User reviews and slot management with Redux and RTK Query.
-- **Advanced UI**: Developed a seamless booking system with efficient search and filtering.
-
----
 
 ### 💼 Professional Experience
 
