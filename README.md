@@ -4,40 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=22C55E&duration=4000&lines=Hi+There!+👋;+I'm+Monishat+Baishnab!;" />
 </h1>
 
-I'm a Frontend Developer from Bangladesh with work experience creating intuitive and dynamic web applications. My expertise lies in the MERN stack, and I'm particularly skilled in Next.js, React, TypeScript, and Redux. I thrive on challenges that push the boundaries of web development and am always eager to learn new technologies.
-
----
-
-### 🚀 What I Do
-
-**Crafting Engaging User Interfaces**  
-I design and develop responsive, user-friendly interfaces that deliver seamless experiences across devices. My work includes:
-
-- **Dynamic UIs**: Using React and Next.js for scalable applications.
-- **State Management**: Proficient with Redux and Context API.
-- **Styling**: Expertise in Tailwind CSS, Bootstrap and SCSS.
-
-**Backend Integration**  
-I ensure smooth data flow and integration with backend systems using:
-
-- Node.js & Express.js
-- RESTful APIs
-- MongoDB, Mongoose, PostgreSql
-
----
-
-### 🌱 Currently Learning
-
-- **Prisma & PostgreSQL:** Developing expertise in database management and ORM for more robust data handling.
-
-### 💼 Professional Experience
-
-**Frontend Developer at Learner LMS** (March 2024 - Present)  
-- Designed and developed responsive LMS interfaces.
-- Managed complex forms and API integrations.
-- Collaborated with UI/UX designers to implement admin dashboards.
-
----
+I'm a Fullstack Developer with hands-on experience building end-to-end web applications using React, Next.js, Node.js, and modern databases. Skilled in developing intuitive frontends, robust backend APIs, and maintaining clean code standards. Passionate about collaborating with cross-functional teams to deliver scalable, high-quality digital solutions.
 
 <div align="center"> 
   <a href="mailto:baishnabmonishat@gmail.com">
