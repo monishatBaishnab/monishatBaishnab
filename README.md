@@ -65,19 +65,9 @@ I built the course and payment management interfaces for a learning platform, wi
 
 <br />
 
-## 04 · Selected projects
-
-| Project | What it is | Built with | Links |
-| :-- | :-- | :-- | :-- |
-| **Pathfinder**<br /><sub>2026 · Product</sub> | AI career platform for students and fresh graduates: a five-step assessment, an ATS-scored CV builder, a jobs portal and a recruiter panel. Deployed with Docker, Helm and GitHub Actions. | Next.js · TypeScript · TanStack Query · Zod | [Live ↗](https://pathfinder.somriddhi.com) |
-| **UpscaleBD**<br /><sub>2026 · Client</sub> | Corporate site for a software consultancy with 23 code-split routes, a per-page SEO layer and a careers funnel backed by Firestore. | React · Vite · HeroUI · Framer Motion | [Live ↗](https://upscalebd.com) |
-| **ActionAid Report 2025**<br /><sub>2026 · Client</sub> | Scroll-driven digital annual report for ActionAid Bangladesh. Every chart and counter is hand-built, with no chart library. | React · Vite · Tailwind | [Live ↗](https://annualreport2025.actionaidbd.org) |
-| **CineHub**<br /><sub>2025 · Personal</sub> | Movie discovery on the TMDB API using Server Components, debounced search and watch lists saved in the browser. | Next.js 15 · Tailwind · shadcn/ui | [Live ↗](https://cine-hub-virid.vercel.app) · [Code](https://github.com/monishatBaishnab/fAPtwqQl) |
-| **Hekto**<br /><sub>2024 · Personal</sub> | Multi-vendor e-commerce with customer, vendor and admin roles, JWT auth, payments and cloud image management. | React · Redux · Express · PostgreSQL · Prisma | [Live ↗](https://hekto-1a747.web.app) · [Client](https://github.com/monishatBaishnab/hekto_client) · [Server](https://github.com/monishatBaishnab/hekto_server) |
-
 <br />
 
-## 05 · Tech stack
+## 04 · Tech stack
 
 <table>
   <tr>
@@ -117,7 +107,7 @@ I built the course and payment management interfaces for a learning platform, wi
 
 <br />
 
-## 06 · GitHub activity
+## 05 · GitHub activity
 
 <p align="center">
   <picture>
