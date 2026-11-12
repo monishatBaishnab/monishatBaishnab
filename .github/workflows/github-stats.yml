@@ -1,0 +1,49 @@
+# Refreshes github-stats.json - the contribution calendar, totals and streak
+# data the portfolio's Activity section loads at
+# https://raw.githubusercontent.com/monishatBaishnab/monishatBaishnab/main/github-stats.json
+#
+# The script reads GitHub's public profile calendar, so no token or secret is
+# needed. Commits are made by github-actions[bot] and do not count towards my
+# contributions. The scheduled run also keeps the repo active, which stops
+# GitHub from pausing the schedule after 60 quiet days.
+name: GitHub stats
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every six hours, off the hour to dodge the queue
+  workflow_dispatch: # run by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch contributions
+        run: node .github/scripts/github-stats.mjs "${{ github.repository_owner }}" github-stats.json
+
+      - name: Commit when the numbers changed
+        run: |
+          # fetchedAt changes on every run; skip the commit when nothing else did
+          if git ls-files --error-unmatch github-stats.json >/dev/null 2>&1 && \
+             [ "$(git show HEAD:github-stats.json | jq -S 'del(.fetchedAt)')" = "$(jq -S 'del(.fetchedAt)' github-stats.json)" ]; then
+            echo "No new contributions since the last refresh."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-stats.json
+          git commit -m "chore: refresh github stats"
+          git push
