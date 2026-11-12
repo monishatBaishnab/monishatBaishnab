@@ -1,22 +1,22 @@
 <a href="https://monishat-portfolio.web.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <img alt="Monishat Baishnab - Full-stack developer building web applications with React, Next.js and Node.js." src="./assets/hero-light.svg" width="100%" />
+    <img width="840" height="525" alt="Monishat Baishnab - Full-stack developer building web applications with React, Next.js and Node.js." src="./assets/hero-light.svg" />
   </picture>
 </a>
 
 <p align="center">
-  <a href="https://monishat-portfolio.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg" /><img alt="View portfolio" src="./assets/btn-portfolio-light.svg" height="40" /></picture></a>
-  <a href="https://www.linkedin.com/in/monishat-baishnab666"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" /><img alt="LinkedIn" src="./assets/btn-linkedin-light.svg" height="40" /></picture></a>
-  <a href="mailto:baishnabmonishat@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" /><img alt="Email" src="./assets/btn-email-light.svg" height="40" /></picture></a>
-  <a href="https://drive.google.com/file/d/1Sd6SPfHb0_P3RUroWm0ScvdVXtaIvVGZ/view?usp=sharing"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-cv-dark.svg" /><img alt="Download CV" src="./assets/btn-cv-light.svg" height="40" /></picture></a>
+  <a href="https://monishat-portfolio.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-portfolio-dark.svg" /><img width="152" height="40" alt="View portfolio" src="./assets/btn-portfolio-light.svg" /></picture></a>
+  <a href="https://www.linkedin.com/in/monishat-baishnab666"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg" /><img width="115" height="40" alt="LinkedIn" src="./assets/btn-linkedin-light.svg" /></picture></a>
+  <a href="mailto:baishnabmonishat@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-email-dark.svg" /><img width="94" height="40" alt="Email" src="./assets/btn-email-light.svg" /></picture></a>
+  <a href="https://drive.google.com/file/d/1Sd6SPfHb0_P3RUroWm0ScvdVXtaIvVGZ/view?usp=sharing"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-cv-dark.svg" /><img width="148" height="40" alt="Download CV" src="./assets/btn-cv-light.svg" /></picture></a>
 </p>
 
 <br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/head-about-dark.svg" />
-  <img alt="01 About - Engineer first, designer second. I build systems the next developer can move fast in." src="./assets/head-about-light.svg" width="100%" />
+  <img width="840" height="156" alt="01 About - Engineer first, designer second. I build systems the next developer can move fast in." src="./assets/head-about-light.svg" />
 </picture>
 
 I build full-stack web products with modern JavaScript - most often **React** and **Next.js** on the front, **Node**, **MongoDB** and **PostgreSQL** behind it. My favourite work lives where engineering meets craft: instrumented codebases, snappy interfaces, and small teams shipping fast without leaving the future a mess.
@@ -29,27 +29,27 @@ Over the past two years I've shipped a learning platform's course and payment in
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/head-experience-dark.svg" />
-  <img alt="02 Experience - It's about impact, and the teams I've shipped it with." src="./assets/head-experience-light.svg" width="100%" />
+  <img width="840" height="122" alt="02 Experience - It's about impact, and the teams I've shipped it with." src="./assets/head-experience-light.svg" />
 </picture>
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/experience-dark.svg" />
-  <img alt="Web Developer at UpscaleBD Ltd., Jun 2025 to present. Frontend Developer at Learner LMS, Mar 2024 to May 2025." src="./assets/experience-light.svg" width="100%" />
+  <img width="840" height="318" alt="Web Developer at UpscaleBD Ltd., Jun 2025 to present. Frontend Developer at Learner LMS, Mar 2024 to May 2025." src="./assets/experience-light.svg" />
 </picture>
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/head-work-dark.svg" />
-  <img alt="03 Work - A curated collection of my most impactful work." src="./assets/head-work-light.svg" width="100%" />
+  <img width="840" height="122" alt="03 Work - A curated collection of my most impactful work." src="./assets/head-work-light.svg" />
 </picture>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://monishat-portfolio.web.app/work/hrx"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work/hrx-dark.webp" /><img alt="HRX - multi-tenant HR platform" src="./assets/work/hrx.webp" /></picture></a>
+      <a href="https://monishat-portfolio.web.app/work/hrx"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work/hrx-dark.webp" /><img width="400" height="225" alt="HRX - multi-tenant HR platform" src="./assets/work/hrx.webp" /></picture></a>
       <h3>HRX <sub><sup>&nbsp;Multi-tenant HR platform</sup></sub></h3>
       <sub>UpscaleBD Ltd. &nbsp;·&nbsp; Frontend Developer &nbsp;·&nbsp; 2025-26 &nbsp;·&nbsp; In production</sub>
       <p>A subscription HR platform where an organisation signs itself up, picks a plan, and runs its whole employee lifecycle - recruitment, attendance, leave, payroll, tax and performance - from one dashboard.</p>
@@ -57,7 +57,7 @@ Over the past two years I've shipped a learning platform's course and payment in
       <a href="https://monishat-portfolio.web.app/work/hrx">Read the full story →</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://monishat-portfolio.web.app/work/payroll"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work/payroll-dark.webp" /><img alt="Payroll Platform - enterprise payroll" src="./assets/work/payroll.webp" /></picture></a>
+      <a href="https://monishat-portfolio.web.app/work/payroll"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work/payroll-dark.webp" /><img width="400" height="225" alt="Payroll Platform - enterprise payroll" src="./assets/work/payroll.webp" /></picture></a>
       <h3>Payroll Platform <sub><sup>&nbsp;Enterprise payroll</sup></sub></h3>
       <sub>ActionAid Bangladesh &nbsp;·&nbsp; Sole Frontend Engineer &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; In production</sub>
       <p>One system for an international non-profit's whole monthly payroll, from salary structures to the bank sheet. Delivered as sole frontend engineer and now running in production.</p>
@@ -67,7 +67,7 @@ Over the past two years I've shipped a learning platform's course and payment in
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://monishat-portfolio.web.app/work/renpos"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work/renpos-dark.webp" /><img alt="Renpos - multi-tenant restaurant POS" src="./assets/work/renpos.webp" /></picture></a>
+      <a href="https://monishat-portfolio.web.app/work/renpos"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work/renpos-dark.webp" /><img width="400" height="225" alt="Renpos - multi-tenant restaurant POS" src="./assets/work/renpos.webp" /></picture></a>
       <h3>Renpos <sub><sup>&nbsp;Multi-tenant restaurant POS</sup></sub></h3>
       <sub>DigicraftLab &nbsp;·&nbsp; Full-stack Developer &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; Handed over</sub>
       <p>Counter and table ordering, a kitchen display, a public status board and ingredient-level inventory. Every restaurant gets its own Postgres database, so tenant isolation is enforced by the database rather than a WHERE clause.</p>
@@ -75,7 +75,7 @@ Over the past two years I've shipped a learning platform's course and payment in
       <a href="https://monishat-portfolio.web.app/work/renpos">Read the full story →</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://monishat-portfolio.web.app/work/pawna"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work/pawna-dark.webp" /><img alt="Pawna - mess accounts, settled every month" src="./assets/work/pawna.webp" /></picture></a>
+      <a href="https://monishat-portfolio.web.app/work/pawna"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/work/pawna-dark.webp" /><img width="400" height="225" alt="Pawna - mess accounts, settled every month" src="./assets/work/pawna.webp" /></picture></a>
       <h3>Pawna <sub><sup>&nbsp;Mess accounts, settled every month</sup></sub></h3>
       <sub>Own product &nbsp;·&nbsp; Product owner and full-stack developer &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; <a href="https://pawna.xyz">pawna.xyz</a></sub>
       <p>Keeps a shared mess's money straight one month at a time - meals, bazar, living costs and deposits in, a settlement out. One API, a web app for managers and an Android app for members.</p>
@@ -89,21 +89,21 @@ Over the past two years I've shipped a learning platform's course and payment in
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/head-toolkit-dark.svg" />
-  <img alt="04 Toolkit - The toolkit I reach for, every single day." src="./assets/head-toolkit-light.svg" width="100%" />
+  <img width="840" height="89" alt="04 Toolkit - The toolkit I reach for, every single day." src="./assets/head-toolkit-light.svg" />
 </picture>
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg" />
-  <img alt="Frontend: React, Next.js, TypeScript, JavaScript, Tailwind, Shadcn/UI, Ant Design, HeroUI, Redux, Zustand, TanStack Query, React Hook Form, Zod, Framer Motion. Backend and data: Node.js, Express, PostgreSQL, Prisma, Drizzle, MongoDB, Mongoose, tRPC, GraphQL, Better Auth, Stripe, Redis, Resend. Tools and DevOps: Docker, Nginx, Git, GitHub, Postman, Vercel, Figma, VS Code, Notion. AI tools: Claude Code, Cursor, Antigravity, GitHub Copilot, Base44." src="./assets/toolkit-light.svg" width="100%" />
+  <img width="840" height="532" alt="Frontend: React, Next.js, TypeScript, JavaScript, Tailwind, Shadcn/UI, Ant Design, HeroUI, Redux, Zustand, TanStack Query, React Hook Form, Zod, Framer Motion. Backend and data: Node.js, Express, PostgreSQL, Prisma, Drizzle, MongoDB, Mongoose, tRPC, GraphQL, Better Auth, Stripe, Redis, Resend. Tools and DevOps: Docker, Nginx, Git, GitHub, Postman, Vercel, Figma, VS Code, Notion. AI tools: Claude Code, Cursor, Antigravity, GitHub Copilot, Base44." src="./assets/toolkit-light.svg" />
 </picture>
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/head-activity-dark.svg" />
-  <img alt="05 Activity - Commits and languages, across public and private repos." src="./assets/head-activity-light.svg" width="100%" />
+  <img width="840" height="122" alt="05 Activity - Commits and languages, across public and private repos." src="./assets/head-activity-light.svg" />
 </picture>
 
 <p align="center">
@@ -122,7 +122,7 @@ Over the past two years I've shipped a learning platform's course and payment in
 <a href="mailto:baishnabmonishat@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg" />
-    <img alt="Let's build something good. Email baishnabmonishat@gmail.com - replies within 24 hours." src="./assets/contact-light.svg" width="100%" />
+    <img width="840" height="219" alt="Let's build something good. Email baishnabmonishat@gmail.com - replies within 24 hours." src="./assets/contact-light.svg" />
   </picture>
 </a>
 
